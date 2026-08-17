@@ -155,13 +155,15 @@ aws-secure-vpc-project/
 │    ├── 02-subnet.png
 │    ├── 03-route-table.png
 │    ├── 04-security-group.png
-│    ├── 05-ec2.png
-│    ├── 06-nginx.png
-│    ├── 07-iam-role.png
-│    ├── 08-s3.png
-│    ├── 09-sts-role-test.png
-│    ├── 10-s3-access-denied.png
-│    └── 11-s3-success.png
+│    ├── 05-igw.png
+│    ├── 06-ec2.png
+│    ├── 07-nginx-status.png
+│    ├── 08-nginx-page.png
+│    ├── 09-iam-role.png
+│    ├── 10-sts-role-test.png
+│    ├── 11-s3-bucket.png
+│    ├── 12-s3-access-denied.png
+│    └── 13-s3-success.png
 │
 └── docs/
     └── AWS-Project-Report.docx
