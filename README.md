@@ -149,10 +149,19 @@ aws-secure-vpc-project/
 │
 ├── architecture/
 │   ├── architecture.png
-│   └── architecture.drawio
 │
 ├── screenshots/
-│   └── 06-nginx.png
+│    ├── 01-vpc.png
+│    ├── 02-subnet.png
+│    ├── 03-route-table.png
+│    ├── 04-security-group.png
+│    ├── 05-ec2.png
+│    ├── 06-nginx.png
+│    ├── 07-iam-role.png
+│    ├── 08-s3.png
+│    ├── 09-sts-role-test.png
+│    ├── 10-s3-access-denied.png
+│    └── 11-s3-success.png
 │
 └── docs/
     └── AWS-Project-Report.docx
