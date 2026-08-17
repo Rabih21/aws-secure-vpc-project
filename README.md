@@ -57,7 +57,7 @@ Amazon Linux was deployed inside the public subnet.
 
 Nginx was installed and configured as the web server.
 
-![Nginx](screenshots/06-nginx.png)
+![Nginx](screenshots/08-nginx-page.png)
 
 ## IAM Role
 
