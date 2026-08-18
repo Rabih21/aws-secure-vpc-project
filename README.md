@@ -140,7 +140,7 @@ The permitted object was successfully retrieved using:
 ## Project Files
 
 ```text
-aws-secure-vpc-project/
+HostingProject/
 │
 ├── README.md
 │
